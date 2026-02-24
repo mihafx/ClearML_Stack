@@ -113,10 +113,4 @@ Acts as the single ingress boundary of the system.
 - Docker ≥ 24.0  
 - Docker Compose ≥ 2.0  
 
-### Steps
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
